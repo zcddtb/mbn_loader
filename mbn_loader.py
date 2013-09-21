@@ -4,7 +4,7 @@
 # Loads MBN ROM files into IDA. Loading was taken from Ralekdev's description at:
 # http://forum.xda-developers.com/showpost.php?p=29925760
 #
-# This creates up to segments:
+# This creates up to 5 segments:
 #   Code
 #   Signature (optional) - Signature section
 #   Cert Chain (optional) - Certificate chain section
